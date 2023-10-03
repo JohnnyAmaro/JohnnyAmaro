@@ -1,7 +1,6 @@
 - 👋 Oi, sou @JohnnyAmaro
-- 👀 Estou ansioso para entender e descobrir
 - 🌱 Atualmente sou estudante de desenvolvimento de sistemas.
-- 💞️ Gostaria de colaborar com projetos futuramente, no momento estou focado em aprender.
+- 💞️ Gostaria de colaborar com projetos interessantes.
 - 📫 e-mail johnny.amaroleite@gmail.com
 
 <!---
